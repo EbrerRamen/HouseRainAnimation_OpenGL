@@ -52,7 +52,7 @@ The simulation supports day/night switching and user interaction with keyboard c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heavy-rain-simulation.git
+   git clone https://github.com/EbrerRamen/heavy-rain-simulation.git
    cd heavy-rain-simulation
 
 2. Install dependencies:
